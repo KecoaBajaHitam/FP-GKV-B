@@ -1,0 +1,4 @@
+This application is a learning on how to create and build a 3D models using OpenGl
+
+In this session, our group will create four 3D models which include a Godzilla, a building, a tank and a tree.  
+
